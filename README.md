@@ -34,4 +34,4 @@ This project is a clone of the Spotify web application. It aims to replicate the
 
 ## Usage
 
-Open the [index.html](http://127.0.0.1:5500/index.html) file in your web browser to view the Spotify clone.
+Open the [index.html](https://yashika-pal.github.io/Mini-Spotify-Clone/) file in your web browser to view the Spotify clone.
